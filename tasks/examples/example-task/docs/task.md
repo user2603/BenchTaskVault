@@ -1,0 +1,1 @@
+This file is part of the required example. Every submitted task must contain a `docs/task.md`, and it must be non-empty and written entirely in English: it has to contain at least one English word, and it must not contain any Chinese character.

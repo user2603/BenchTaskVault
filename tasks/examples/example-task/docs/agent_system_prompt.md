@@ -1,0 +1,1 @@
+This file is optional for a submitted task. If it is present, it must be non-empty and written entirely in English: it has to contain at least one English word, and it must not contain any Chinese character.
