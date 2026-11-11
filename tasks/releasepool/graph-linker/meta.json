@@ -1,0 +1,4 @@
+{
+  "effort_points": 14,
+  "tier_rules": "Bronze when effort_points is below 6; Silver when effort_points is from 6 to 11; Gold when effort_points is 12 or above."
+}
